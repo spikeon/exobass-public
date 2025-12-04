@@ -1,0 +1,10 @@
+qty     name                url
+8       M5x20 SHCS          https://amzn.to/3WJBDt7
+26      BT3x20              https://us.store.bambulab.com/products/bt3-socket-head-cap-self-tapping-screws-shcs-new?id=42382271807624
+12      M3x25 BHCS          https://amzn.to/4iLjLbK
+1       M6x20 SHCS          https://amzn.to/3WKMoeK
+8       M5 Slide In Nuts    https://amzn.to/47iHYAQ
+14      M3 HSI              https://amzn.to/42KpQON
+1       A500k Pot           https://amzn.to/4pfQ4BL
+1       B500k Pot           https://amzn.to/4pfQ4BL
+1       Guitar Jack         https://amzn.to/3WBx6sL
